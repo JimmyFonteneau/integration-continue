@@ -1,0 +1,19 @@
+{
+  "name": "cournode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^3.0.2",
+    "body-parser": "^1.19.0",
+    "emoji-strip": "^1.0.1",
+    "express": "^4.16.4",
+    "mocha": "^6.1.4",
+    "morgan": "^1.9.1"
+  }
+}
